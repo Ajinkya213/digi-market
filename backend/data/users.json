@@ -1,0 +1,22 @@
+[
+  {
+  "name" : "admin",
+  "email" : "admin@farmermarket.com",
+  "password" : "123456789"
+  },
+  {
+    "name" : "yuting",
+    "email" : "yuting@farmermarket.com",
+    "password" : "yuting"
+  },
+  {
+    "name" : "sanchit",
+    "email" : "sanchit@farmermarket.com",
+    "password" : "sanchit"
+  },
+  {
+    "name" : "ajinkya",
+    "email" : "ajinkya@farmermarket.com",
+    "password" : "ajinkya"
+  }
+]

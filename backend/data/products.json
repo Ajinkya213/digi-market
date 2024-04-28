@@ -1,0 +1,63 @@
+[
+  {
+    "price": 22,
+    "ratings": 0,
+    "stock": 12,
+    "numOfReviews": 0,
+    "name": "Tomato",
+    "description": "This is tomato",
+    "category": "Vegetables",
+    "seller": "EBAY",
+    "images": [
+      {
+        "public_id": "products/gkvg7ov5rpz5prx3nxm9",
+        "url": "https://res.cloudinary.com/dp5idn1fn/image/upload/v1652010561/products/gkvg7ov5rpz5prx3nxm9.jpg"
+      }
+    ]
+  },{
+  "price": 200,
+  "ratings": 0,
+  "stock": 100,
+  "numOfReviews": 0,
+  "name": "Potato",
+  "description": "50Kg Bags",
+  "category": "Vegetables",
+  "seller": "Ebay",
+  "images": [
+    {
+      "public_id": "products/d7n348btyoe7rshlxr3f",
+      "url": "https://res.cloudinary.com/dp5idn1fn/image/upload/v1652012969/products/d7n348btyoe7rshlxr3f.jpg"
+    }
+  ]
+},{
+  "price": 43,
+  "ratings": 0,
+  "stock": 23,
+  "numOfReviews": 0,
+  "name": "Eggs Crate",
+  "description": "The price is 43 dollars per crate.",
+  "category": "Vegetables",
+  "seller": "Ebay",
+  "images": [
+    {
+      "public_id": "products/g7yb7658sr5czq6aaqq3",
+      "url": "https://res.cloudinary.com/dp5idn1fn/image/upload/v1652015230/products/g7yb7658sr5czq6aaqq3.jpg"
+    }
+  ]
+},{
+  "price": 36,
+  "ratings": 0,
+  "stock": 70,
+  "numOfReviews": 0,
+  "name": "Rice",
+  "description": "Rice bags 36 dollars per bag",
+  "category": "Vegetables",
+  "seller": "Ebay",
+  "images": [
+    {
+      "public_id": "products/qmvjaajjanpvhlojk7li",
+      "url": "https://res.cloudinary.com/dp5idn1fn/image/upload/v1652015396/products/qmvjaajjanpvhlojk7li.jpg"
+    }
+  ]
+  }
+]
